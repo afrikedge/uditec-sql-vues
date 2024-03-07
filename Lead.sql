@@ -15,7 +15,7 @@ GO
 CREATE VIEW [TEST].[Lead]
 AS
 SELECT
-      [No_]
+      --[No_]
       ,[Name]
       ,[Search Name]
       ,[Name 2]
